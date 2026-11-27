@@ -1,6 +1,6 @@
-QUESTION 1: ANALYSIS OF GHANA'S HEADLINE INFLATION TRENDS
+# QUESTION 1: ANALYSIS OF GHANA'S HEADLINE INFLATION TRENDS
 Research question: How has headline inflation moved since 1999, and when were the peaks and troughs?
-1. Introduction
+## 1. Introduction
 This analysis examines the movement of Ghana's headline inflation from January 1999 to January 2026 using monthly year-on-year inflation data obtained from the Ghana Statistical Service StatsBank. Headline inflation is represented by the All products category, which captures the overall rate of inflation across the products and services covered by the Consumer Price Index (CPI).
 2. Findings and Discussion
 The analysis reveals that Ghana's headline inflation has experienced considerable fluctuations over the period under review.
