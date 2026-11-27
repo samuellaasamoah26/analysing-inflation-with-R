@@ -112,7 +112,7 @@ The 2010s, in contrast, experienced a relatively higher proportion of months wit
 The analysis demonstrates that Ghana experienced different inflation conditions across the three periods. The 2000s and 2020s were characterised by relatively high average inflation, whereas the 2010s recorded a substantially lower average rate.
 Overall, the findings indicate that Ghana's inflation performance has varied considerably over time, with the 2010s representing a period of comparatively lower inflation between two periods of higher inflation.
 ## 5. Figure
-<img width="975" height="586" alt="image" src="https://github.com/user-attachments/assets/77680473-e0d5-4f56-b0b4-c0dcd76f8f31" />
+<img width="975" height="581" alt="image" src="https://github.com/user-attachments/assets/ce91c1c3-0d1a-4064-9d9a-158696bdb6d9" />
 
 Figure 5: Comparison of Average Headline Inflation Across the 1999, 2000s, 2010s and 2020s Periods
  
