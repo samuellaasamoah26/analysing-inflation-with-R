@@ -2,17 +2,17 @@
 Research question: How has headline inflation moved since 1999, and when were the peaks and troughs?
 ## 1. Introduction
 This analysis examines the movement of Ghana's headline inflation from January 1999 to January 2026 using monthly year-on-year inflation data obtained from the Ghana Statistical Service StatsBank. Headline inflation is represented by the All products category, which captures the overall rate of inflation across the products and services covered by the Consumer Price Index (CPI).
-2. Findings and Discussion
+## 2. Findings and Discussion
 The analysis reveals that Ghana's headline inflation has experienced considerable fluctuations over the period under review.
 The highest headline inflation rate recorded was 63.0% in March 2001, representing the peak of the series. In contrast, the lowest rate was 0.4% in May 1999, representing the trough.
 The overall mean headline inflation rate was approximately 17.31%, while the median was 13.5%. The mean being higher than the median suggests that some periods of exceptionally high inflation raised the overall average.
 Following the peak in 2001, inflation fluctuated over the subsequent years. Another significant inflationary period occurred in the early 2020s. The annual average headline inflation rate reached 40.3% in 2023. However, inflation subsequently declined, falling from 23.5% in January 2025 to 3.8% in January 2026.
 These movements demonstrate that Ghana has experienced periods of both relatively low inflation and substantial increases in the general price level.
-3. Conclusion
+## 3. Conclusion
 The findings indicate that Ghana's headline inflation has not followed a constant pattern since 1999. The series recorded its highest rate in March 2001 and its lowest rate in May 1999, with significant fluctuations occurring throughout the period.
 Although inflation rose sharply in the early 2020s, the decline towards January 2026 suggests a moderation in the rate at which consumer prices were increasing.
 It is important to note that a decline in the inflation rate does not necessarily mean that prices have fallen. Rather, it indicates that prices are increasing at a slower rate.
-4. Figure
+## 4. Figure
 Figure 1: Trend of Ghana's Headline Inflation from January 1999 to January 2026
 
  <img width="975" height="586" alt="image" src="https://github.com/user-attachments/assets/9daa4d46-2cbd-46fd-8104-a841ca8c32f8" />
