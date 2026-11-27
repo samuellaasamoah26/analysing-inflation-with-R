@@ -15,10 +15,11 @@ It is important to note that a decline in the inflation rate does not necessaril
 4. Figure
 Figure 1: Trend of Ghana's Headline Inflation from January 1999 to January 2026
 
- 
+ <img width="975" height="586" alt="image" src="https://github.com/user-attachments/assets/9daa4d46-2cbd-46fd-8104-a841ca8c32f8" />
+
 Source: Ghana Statistical Service StatsBank, Consumer Price Index data; author's analysis using R.
 
-QUESTION 2: PRODUCT CATEGORIES WITH THE HIGHEST INFLATION
+## QUESTION 2: PRODUCT CATEGORIES WITH THE HIGHEST INFLATION
 Research question: Which product categories have had the highest inflation over the long run and over the last five years?
 1. Introduction
 This analysis examines the product categories that recorded the highest average year-on-year inflation rates in Ghana from January 1999 to January 2026. It also examines the most recent five-year period, February 2021 to January 2026.
